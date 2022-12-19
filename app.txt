@@ -1,10 +1,6 @@
 coupon
 dsfsdfdfdfdfd
-<<<<<<< HEAD
-fsfsdf
-=======
 fsff
 dddd
 dsfsdfdfdfdfd
 dddd
->>>>>>> dddd
