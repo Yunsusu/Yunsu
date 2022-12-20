@@ -3,9 +3,6 @@ dsfsdfdfdfdfd
 fsff
 dddd
 dsfsdfdfdfdfd
-<<<<<<< HEAD
-sdds
-=======
 sdf
 sdfsd
 dsfsdfdfdfdfddsf
@@ -13,4 +10,3 @@ fsdfsdf
 sdfsdfssfd
 sdffdsfds
 fsdfsdffsd
->>>>>>> parent of 8c8c5a6 (tt)
